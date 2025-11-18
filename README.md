@@ -1,18 +1,18 @@
-## Getting Started
+# Otavio Sales Pereira
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá, sou estudante do 1ºano de desenvolvimento de sistemas, focado em aprender e aplicar conhecimentos em programação, formas de automatizações e IA.
 
-## Folder Structure
+Tenho me dedicado aos estudos, aprendendo um pouco de: HTML, JS, CSS, Python, e projetos pessoais no meu [portifólio](https://github.com/Otavio-Sales-N29) e tenho mais alguns projetos que não passei para o GitHub ainda.
 
-The workspace contains two folders by default, where:
+Meu [linkedin](www.linkedin.com/in/otavio-sales-pereira-71638a356)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-sales-pereira-71638a356/)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Meu [GitHub](https://github.com/Otavio-Sales-N29)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Otavio-Sales-N29)
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Estou gostando muito do curso da **DIO**, obrigado pela oportunidade! 
+Gostei do desafio da Camila!
